@@ -1,4 +1,4 @@
-package Q2AddTwoNumbers;
+package Q00002_AddTwoNumbers;
 
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

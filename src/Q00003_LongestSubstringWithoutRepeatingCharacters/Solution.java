@@ -1,4 +1,4 @@
-package Q3LongestSubstringWithoutRepeatingCharacters;
+package Q00003_LongestSubstringWithoutRepeatingCharacters;
 
 import java.util.HashMap;
 import java.util.Map;

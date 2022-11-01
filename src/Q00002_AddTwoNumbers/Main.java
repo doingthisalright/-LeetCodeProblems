@@ -1,10 +1,10 @@
-package Q2AddTwoNumbers;
+package Q00002_AddTwoNumbers;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Q2AddTwoNumbers {
+public class Main {
     public static void main(String[] args) {
         final ListNode l1Node3 = new ListNode(3);
         final ListNode l1Node2 = new ListNode(4, l1Node3);

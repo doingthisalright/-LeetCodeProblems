@@ -1,8 +1,8 @@
-package Q1TwoSum;
+package Q00001_TwoSum;
 
 import java.util.Arrays;
 
-public class LeetCode1TwoSum {
+public class Main {
     public static void main(String[] args) {
         final int[] nums = { 2, 7, 11, 15 };
         final int target = 9;

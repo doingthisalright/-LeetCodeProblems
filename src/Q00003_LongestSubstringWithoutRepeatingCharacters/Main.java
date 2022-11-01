@@ -1,6 +1,6 @@
-package Q3LongestSubstringWithoutRepeatingCharacters;
+package Q00003_LongestSubstringWithoutRepeatingCharacters;
 
-public class Q3LongestSubstringWithoutRepeatingCharacters {
+public class Main {
     public static void main(String[] args) {
         final String inputString = "abcabcbb";
         final int expectedLength = 3;

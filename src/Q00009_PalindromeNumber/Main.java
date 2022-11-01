@@ -1,6 +1,6 @@
-package Q9PalindromeNumber;
+package Q00009_PalindromeNumber;
 
-public class Q9PalindromeNumber {
+public class Main {
     public static void main(String[] args) {
         final Integer input = 121;
         final boolean expectedAnswer = true;

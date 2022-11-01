@@ -1,4 +1,4 @@
-package Q9PalindromeNumber;
+package Q00009_PalindromeNumber;
 
 class Solution {
     public boolean isPalindrome(int x) {
