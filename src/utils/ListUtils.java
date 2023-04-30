@@ -1,6 +1,7 @@
 package utils;
 
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -27,5 +28,11 @@ public class ListUtils {
         }
 
         return set1.containsAll(set2);
+    }
+
+    public static boolean stringListsHaveExactlySameItems(List<String> list1, List<String> list2) {
+        Collections.sort(list1);
+        Collections.sort(list2);
+        return list1.equals(list2);
     }
 }
